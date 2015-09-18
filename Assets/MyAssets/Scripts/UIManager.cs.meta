@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 7cb7edcda9a4b8145a55b2ee5baefa8a
+timeCreated: 1441301439
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {instanceID: 0}
+  - playButton: {instanceID: 0}
+  - exitButton: {instanceID: 0}
+  - titleText: {instanceID: 0}
+  - aText: {instanceID: 0}
+  - sText: {instanceID: 0}
+  - helpText: {instanceID: 0}
+  - backButton: {instanceID: 0}
+  - retryButton: {instanceID: 0}
+  - timerBar: {instanceID: 0}
+  - screenOverlay: {instanceID: 0}
+  - vehiclesRoot: {instanceID: 0}
+  - sun: {instanceID: 0}
+  - goL: {instanceID: 0}
+  - goR: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
